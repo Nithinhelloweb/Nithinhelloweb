@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0086FD,50:7943FD,100:DB37E1&height=220&section=header&text=Hey,%20I'm%20Nithin%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20@%20NUVAM%20Technologies%20%7C%20AI/ML%20Engineer%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0086FD,50:7943FD,100:DB37E1&height=220&section=header&text=Hi,%20I'm%20Nithin%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Always%20Learning&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://github.com/Nithinhelloweb">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+NUVAM+Technologies+%F0%9F%9A%80;AI%2FML+%7C+Computer+Vision+%7C+Automation;Competitive+Programmer+%E2%9A%A1;Late-night+coder+%2F+Early-morning+shipper;ISRO+Hackathon+%E2%80%94+Team+GRAVATON+%F0%9F%9B%B0%EF%B8%8F&font=Fira+Code&center=true&width=600&height=50&color=7943FD&vCenter=true&size=24&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Exploring+AI%2FML+%26+Computer+Vision+%F0%9F%A4%96;Automating+workflows+with+n8n+%E2%9A%99%EF%B8%8F;Building+with+React+%2B+Three.js+%F0%9F%8C%90;Solving+problems%2C+one+commit+at+a+time;Still+learning+every+single+day+%F0%9F%93%96&font=Fira+Code&center=true&width=600&height=50&color=7943FD&vCenter=true&size=23&pause=1500"/>
 </a>
 
 <br/>
@@ -15,71 +15,54 @@
 
 <br/>
 
-## 🧭 About Me
+## 👋 A Bit About Me
+
+I'm someone who genuinely enjoys figuring out *how things work* — and then building them myself. My time goes into AI/ML experiments, automating the boring stuff, and putting together full web experiences from scratch. I don't claim to know everything; I'm still learning, still breaking things, still googling stack traces at midnight like everyone else. But I show up, I build, and I try to get a little better each time.
 
 ```yaml
-name: "Nithin Prabu V"
-role: "Founder @ NUVAM Technologies"
-focus: ["AI/ML Engineering", "Computer Vision", "Automation", "Full-Stack Dev"]
-currently_building: "NUVAM's professional website — 'The Trace' design system"
-currently_learning: "Google Cloud Gen AI Academy — Agent Deployment (ADK on Cloud Run)"
-recent_win: "ISRO Hackathon — Team GRAVATON (solar flare forecasting, Aditya-L1 data)"
-fun_fact: "Probably debugging React Three Fiber at 2 AM right now"
+currently_exploring: "Generative AI agent deployment (Google Cloud Gen AI Academy)"
+recently_did: "Solar flare forecasting with satellite data — ISRO Hackathon"
+always_doing: "Competitive programming, late-night builds, asking 'why not?'"
 ```
 
 <br/>
 
-## 🚀 NUVAM Technologies
+## 🛠️ Skills & Tech Stack
 
-<div align="center">
+### 🤖 AI / Machine Learning
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-### *India-first, AI-native engineering*
+### 🌐 Web & Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 
-</div>
+### ⚙️ Automation & Backend
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-> **NUVAM** — from the Tamil **நுவல்** (*nuval*), "to speak into existence."
+### 📱 Mobile & Other Languages
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-I'm the founder of **NUVAM Technologies**, an AI-native engineering company building across:
-
-<table align="center">
-<tr>
-<td align="center" width="200">🤖<br/><b>AI/ML Engineering</b></td>
-<td align="center" width="200">⚙️<br/><b>Automation</b></td>
-<td align="center" width="200">📦<br/><b>SaaS Products</b></td>
-<td align="center" width="200">☁️<br/><b>Cloud Infra</b></td>
-</tr>
-</table>
-
-**Flagship products:**
-
-| Product | What it does |
-|---|---|
-| 👁️ **VisionGate** | AI-powered computer vision attendance management system |
-| 🛒 **White-Label E-Commerce** | Customizable, ready-to-deploy e-commerce platform |
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikitlearn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+### 🧰 Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 <br/>
 
@@ -99,13 +82,14 @@ I'm the founder of **NUVAM Technologies**, an AI-native engineering company buil
 
 <br/>
 
-## 🏆 Highlights
+## 🌱 What I've Been Up To
 
-- 🛰️ **ISRO Hackathon** — Built solar flare forecasting models with **Team GRAVATON** using Aditya-L1 satellite data
-- ☁️ **Google Cloud Gen AI Academy** — Deploying ADK agents on Cloud Run
-- 🧠 Ensemble deep learning (DenseNet121 + EfficientNet-B3) for multi-class medical image classification
-- ⚡ Competitive programmer — algorithmic DP, large-number arithmetic, pattern problems in Java
-- 🌐 Built a full 3D scroll-driven web experience with React Three Fiber for NUVAM's site
+- 🛰️ Worked on **solar flare forecasting** using satellite data during the ISRO Hackathon
+- ☁️ Learning to deploy AI agents on Cloud Run through Google Cloud's Gen AI Academy
+- 🧠 Trained ensemble deep learning models for medical image classification
+- ⚙️ Automated real-world workflows end-to-end using **n8n**
+- 🌐 Built 3D, scroll-driven web experiences using React Three Fiber
+- 🧩 Sharpening problem-solving through regular competitive programming
 
 <br/>
 
@@ -113,19 +97,17 @@ I'm the founder of **NUVAM Technologies**, an AI-native engineering company buil
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Nithinhelloweb/Nithinhelloweb/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>⚠️ Snake animation activates automatically once the GitHub Action below is set up (see setup notes)</sub>
 </div>
 
 <br/>
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Nithinhelloweb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-*(Add your LinkedIn / X / Email / Portfolio badges here — just say the word and I'll generate them)*
+<sub>Always open to learning from others, collaborating, or just talking tech.</sub>
 
 </div>
 
@@ -134,5 +116,5 @@ I'm the founder of **NUVAM Technologies**, an AI-native engineering company buil
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DB37E1,50:7943FD,100:0086FD&height=120&section=footer" width="100%"/>
 
 <div align="center">
-<i>⭐️ From <a href="https://github.com/Nithinhelloweb">Nithinhelloweb</a> — building things that speak into existence.</i>
+<i>Thanks for stopping by — still figuring things out, one project at a time. ⭐</i>
 </div>
