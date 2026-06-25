@@ -84,12 +84,6 @@
 - System Design
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nithinhelloweb/Nithinhelloweb/output/github-contribution-grid-snake.svg"/>
-</p>
-
-# 🤝 Connect
-
-<p align="center">
 <a href="https://github.com/Nithinhelloweb"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
