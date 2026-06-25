@@ -11,7 +11,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 BE Computer Science Engineering
-- 🚀 Founder of **NUVAM**
 - 📱 Cross-platform application developer
 - ☁️ Learning Google Cloud & Cloud Native technologies
 - 🧠 Interested in Neural Networks, AI and Automation
